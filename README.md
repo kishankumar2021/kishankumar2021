@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishankumar2021" alt="kishankumar2021" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-master-aiejag04b-kishanmasai2021-gmailcom.vercel.app/](https://portfolio-master-aiejag04b-kishanmasai2021-gmailcom.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-master-aiejag04b-kishanmasai2021-gmailcom.vercel.app/](https://portfolio-master-omega.vercel.app/)
 
 - 📫 How to reach me **kishaninfo2.0@gmail.com**
 
